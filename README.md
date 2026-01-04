@@ -1,2 +1,2 @@
-# KoStatsMulti-Plugin
-The Plugin for KoStats(https://thepixelpro.de/KoStatsMulti/)
+Drag and Drop this plugin(from the release page) to [YourKoreaderFolder]/plugins.
+More Information here: 
